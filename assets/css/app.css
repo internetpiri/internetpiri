@@ -1,0 +1,45 @@
+@import "root.css";
+
+.container{
+  width: 100%;
+  display: table;
+  background-color: #fff;
+}
+.container .in1{
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+}
+.logo{
+  max-width: 400px;
+  margin-top: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.search-form {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.search-form-input {
+  height: 45px;
+  width: 500px;
+  padding-left: 15px;
+  border: 2px solid;
+  border-color: var(--piri);
+  border-radius: 5px;
+}
+
+.search-button {
+  background-color: var(--piri);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 13px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
