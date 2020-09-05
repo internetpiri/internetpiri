@@ -1,4 +1,4 @@
-https://media.giphy.com/media/mi6DsSSNKDbUY/giphy.gif
+![giphy](https://media.giphy.com/media/mi6DsSSNKDbUY/giphy.gif)
 
 ## Hi to you excellent developer 👋
 
